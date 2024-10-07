@@ -1,0 +1,29 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>DW 13768</Id>
+            <Name>DW 13768</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYPFYcixsWU6zLFyXmk0c8AAAAAASAAAARABXACAAMQAzADcANgA4AAAAEGYAAAABAAAgAAAAhdZEFRg43WJa0cxz490JscklLHfNbGR3NcNUqBRbJvAAAAAADoAAAAACAAAgAAAAzJxsyybvjz3OwwCAUagGwe5BrdnNapwxe9A+1sWlXuIQAAAA0Pc966M5vL1qU168DczDxEAAAAAQT3cDJ8fUBUNr20f9O6lmBHtVKArFGtVxGX6L72EQX5uKvQSAV473JeK1CdgdFQjaFxGt9sO398E69zqcVQwF</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>DW 13768</Id>
+            <Name>DW 13768</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYPFYcixsWU6zLFyXmk0c8AAAAAASAAAARABXACAAMQAzADcANgA4AAAAEGYAAAABAAAgAAAAXG+KriwXmjDaKWrCPtGuHNoof60q5iqgh/1eVcSWO7kAAAAADoAAAAACAAAgAAAAn17TD1sJmwiLXLMiYw6TC6M6FASra2Z8bzITxMwUX2UgAAAAc+Ue8NZ2mOMGynLblQsxAzYb3fTOL2QOyUTXctpqgexAAAAAHBHyM9K5e859qobtDiCYqHGeYDhz7GfxZ7lak0834z3854kB6kPyY/DBYOyxxbJFBmbeFxI0fRnhBKuM6X59IQ==</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>LAPTOP-JC5GS3F6</TargetServer>
+        <TargetDatabase>cube</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>
